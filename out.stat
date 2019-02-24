@@ -1,0 +1,102 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: false
+Fitness: [52.0 0.0 0.0]
+Tree 0:
+ (XNOR (XOR (XOR (XNOR (AND Input5 Input4)
+     (OR Input1 Input7)) (OR (XNOR Input6 Input1)
+     (OR Input6 Input6))) (AND (XOR (AND Input4
+     Input3) (XNOR Input5 Input2)) (XOR (OR Input4
+     Input3) (XOR Input7 Input7)))) (XOR (AND
+     (OR (XNOR Input2 Input5) (XNOR Input7 Input7))
+     (OR (OR Input2 Input7) (XNOR Input6 Input7)))
+     (AND (XOR (XOR Input2 Input5) (AND Input7
+         Input7)) (AND (XNOR Input5 Input5) (AND Input4
+         Input6)))))
+
+Generation: 1
+Bes
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: false
+Fitness: [448.0 0.0 3.0 448.0]
+Tree 0:
+ (XNOR (XNOR Input1 (XNOR (XNOR (OR Input8
+     Input4) (XNOR Input5 Input10)) (XOR (XOR
+     Input9 Input2) (XOR Input7 Input6)))) (XNOR
+     (XOR (XNOR (XNOR Input2 Input10) (AND Input6
+         Input8)) (XNOR (AND Input10 Input3) (XOR
+         Input2 Input4))) (XOR (OR (XOR Input6 Input4)
+     (XNOR Input10 Input5)) (OR (XNOR Input4 Input8)
+     (XOR Input9 Input4)))))
+ Input2 Input1) (XNOR
+     (AND Input2 Input6) (OR Input3 Input1))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: false
+Fitness: [48.0 0.0 2.0]
+Tree 0:
+ (XOR (XOR (XOR (AND Input5 Input5) (OR Input7
+     Input6)) (AND Input7 Input1)) (XNOR (AND
+     Input4 Input6) (XNOR (XNOR (AND Input7 Input3)
+     (XNOR Input2 Input1)) (XOR (AND Input3 Input4)
+     (XNOR Input2 Input2)))))
+
+     (XOR Input6 Input1)) (XOR (AND Input5 Input6)
+     (OR Input1 Input5))) (XNOR (XOR (OR Input1
+     Input6) (XOR Input5 Input5)) (AND (XNOR Input3
+     Input2) (XOR Input1 Input1)))) (XNOR (XOR
+     (XNOR (OR Input3 Input4) (OR Input1 Input2))
+     (XNOR (OR Input2 Input4) (XNOR Input1 Input4)))
+     (XOR Input2 Input6)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: false
+Fitness: [24.0 0.0 1.0]
+Tree 0:
+ (XNOR (XOR (XOR (AND (XOR Input6 Input2)
+     (XOR Input6 Input1)) (AND (XNOR Input5 Input2)
+     (AND Input2 Input4))) (XNOR (XOR (OR Input1
+     Input6) (XOR Input5 Input5)) (AND (XNOR Input3
+     Input2) (XOR Input1 Input1)))) (XNOR (XOR
+     (XNOR (OR Input3 Input4) (OR Input1 Input2))
+     (XNOR (OR Input2 Input4) (XNOR Input1 Input4)))
+     (XOR Input2 Input6)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: false
+Fitness: [24.0 0.0 1.0]
+Tree 0:
+ (OR (XOR (XNOR (XOR (XOR Input5 Input3) (AND
+     Input1 Input5)) (XOR (XOR Input2 Input3)
+     (AND Input3 Input1))) (XOR (XOR (XNOR Input1
+     Input1) (AND Input4 Input6)) (XOR (AND Input4
+     Input1) (XOR Input4 Input6)))) (AND (OR (XNOR
+     (XOR Input5 Input1) (XNOR Input2 Input2))
+     (AND (OR Input1 Input5) (AND Input6 Input5)))
+     (AND (AND (XOR Input3 Input4) (AND Input2
+         Input6)) (AND (XOR Input6 Input4) (AND Input3
+         Input6)))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: false
+Fitness: [28.0 41.0 0.0]
+Tree 0:
+ (XNOR (XNOR (XNOR (AND (XNOR Input2 Input6)
+     (XNOR Input6 Input3)) (OR (XNOR Input4 Input2)
+     (AND Input6 Input6))) (XNOR Input6 (XOR (AND
+     Input4 Input1) (XOR Input5 Input4)))) (XOR
+     (XOR (AND (XNOR Input6 Input4) (XNOR Input2
+         Input1)) (AND (OR Input3 Input4) (XNOR Input3
+         Input4))) (OR Input4 (XOR Input6 Input5))))
