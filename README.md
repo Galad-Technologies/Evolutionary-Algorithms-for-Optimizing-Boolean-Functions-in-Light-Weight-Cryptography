@@ -6,3 +6,5 @@ https://cs.gmu.edu/~eclab/projects/ecj/,
 since I did not provide them here. 
 ECJ has many powerful tools for GA and GP, along with a user manual and some helpful tutorials for beginners.
 Also, please consult Koza's famous book "Genetic Programming: On the Programming of Computers by Means of Natural Selection (Complex Adaptive Systems)" if you ever wish to implement a evolutionary algorithm for some applications.
+To run the progarm in shell:
+execute run.ps1 in shell.
