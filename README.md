@@ -1,5 +1,5 @@
 # Evolutionary-Algorithms-for-Optimizing-Boolean-Functions-in-Light-Weight-Cryptography
-This is a project of EECS 4080 in Fall term 2018 at York University.
+This is a project of an undergraduate course EECS 4080 in Fall term 2018 at York University.
 Part of the code written, as well as support libraries, were based ECJ (A Java-based Evolutionary Computation Research System) version 26.
 You can find ECJ's website here. If you attempt to run this program, you should download the libraries and any other packages necessary from 
 https://cs.gmu.edu/~eclab/projects/ecj/,
